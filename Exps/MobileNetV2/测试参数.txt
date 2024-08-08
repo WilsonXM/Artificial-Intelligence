@@ -1,0 +1,26 @@
+epochs : 20
+lr_max : 0.1
+decay_type : cosine
+momentum : 0.9
+weight_decay : 0.01
+acc : 0.935
+loss : 0.287
+得分 : 79.23
+
+epochs : 20
+lr_max : 0.1
+decay_type : cosine
+momentum : 0.9
+weight_decay : 0.001
+acc : 0.91
+loss : 0.328
+得分 : 79.23
+
+epochs : 21
+lr_max : 0.05
+decay_type : cosine
+momentum : 0.95
+weight_decay : 0.001
+acc : 0.926
+loss : 0.326
+得分 : 79.23
